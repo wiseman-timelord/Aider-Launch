@@ -24,3 +24,11 @@ Its a Launcher for Aider, designed specificaly for, Ubuntu and Gemini and DeepSe
 Selection; Menu Options = 1-4, Exit Program = X:
 
 ```
+
+### Requirements:
+- Linux (tested on Ubuntu 24.04.1).
+
+### Instructions:
+1. Clone aider `git clone https://github.com/paul-gauthier/aider.git`.
+2. Change to folder `aider`, then Drop scripts from `Aider-Launch` into folder `aider`.
+3. Run `./Aider-Launch.sh`, if issues, then ensure to run `sudo chmod 777 ./Aider-Launch.sh`, and in fail there then try `sudo ./Aider-Launch.sh`.  
