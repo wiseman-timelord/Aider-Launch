@@ -26,7 +26,7 @@ Selection; Menu Options = 1-4, Exit Program = X:
 ```
 
 ### Requirements:
-- Linux (tested on Ubuntu 24.04.1).
+- Linux; tested and programmed, on Ubuntu 24.04.1.
 
 ### Instructions:
 1. Clone aider `git clone https://github.com/paul-gauthier/aider.git`.
